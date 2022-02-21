@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "722580673161",
+    "project_id": "bisklet-7b03c",
+    "storage_bucket": "bisklet-7b03c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722580673161:android:2cba7d797325710e66ac58",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722580673161-n9gqls78hidtbc934lajujpi7tdovdqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQjmugN0g82xK_WBOJG1oxmuo2SrjvAg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722580673161-n9gqls78hidtbc934lajujpi7tdovdqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722580673161-lrd25qrsv7qdhvp1t4i3t3q8av23creh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.android.application"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
