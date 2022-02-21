@@ -1,4 +1,4 @@
-### Besklet
+# Besklet
 Besklet is a project built with Flutter and Firebase.
 ## Introduction
 Our Mobile Application aims at changing the means of mobility by offering bike rental services.
